@@ -1,0 +1,25 @@
+{
+  "name": "location-of-my-origin",
+  "version": "1.0.0",
+  "description": "building web app to show the students origin country and some information about them using google map API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sareh88/location-of-my-origin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sareh88/location-of-my-origin/issues"
+  },
+  "homepage": "https://github.com/sareh88/location-of-my-origin#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-validator": "^5.0.0",
+    "mongoose": "^5.0.5"
+  }
+}
